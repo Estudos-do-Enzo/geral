@@ -5,10 +5,10 @@ Colocarei aqui algumas coisas importantes para estudo pelo Enzo.
 
 # Tutoriais
 
-[W3School](https://www.w3schools.com/python/python_intro.asp);
-[CODEAQUI.dev](https://www.codaqui.dev/trilhas/python/);
-[python.org](https://docs.python.org/pt-br/3/tutorial/);
-[Microsoft Learn](https://learn.microsoft.com/pt-br/training/paths/beginner-python/).
+- [W3School](https://www.w3schools.com/python/python_intro.asp);
+- [CODEAQUI.dev](https://www.codaqui.dev/trilhas/python/);
+- [python.org](https://docs.python.org/pt-br/3/tutorial/);
+- [Microsoft Learn](https://learn.microsoft.com/pt-br/training/paths/beginner-python/).
 
 
 # Comandos importantes
