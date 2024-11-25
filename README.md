@@ -3,6 +3,12 @@
 Colocarei aqui algumas coisas importantes para estudo pelo Enzo.
 
 
+# Tutoriais
+
+[W3School](https://www.w3schools.com/python/python_intro.asp);
+[CODEAQUI.dev](https://www.codaqui.dev/trilhas/python/)
+
+
 # Comandos importantes
 
 - **Para iniciar um terminal**: Tecla windows + R
