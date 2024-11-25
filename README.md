@@ -3,6 +3,14 @@
 Colocarei aqui algumas coisas importantes para estudo pelo Enzo.
 
 
+# Comandos importantes
+
+- **Para iniciar um terminal**: Tecla windows + R
+- **Estando no terminal**:
+    - **Para mudar para um diretório filho**: cd nome-do-diretório. Ex: `cd Desktop`;
+    - **Para subir um diretório (ver o diretório que tem o diretório onde você esta**: `cd ..`;
+    - **Para executar um script Python**: python nome-do-arquivo.py. Exemplo: `python par-ou-impar.py`.
+
 # Listas de exercícios
 
 Nestas listas, faça os que achar interessante:
