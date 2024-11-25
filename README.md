@@ -7,6 +7,7 @@ Colocarei aqui algumas coisas importantes para estudo pelo Enzo.
 
 [W3School](https://www.w3schools.com/python/python_intro.asp);
 [CODEAQUI.dev](https://www.codaqui.dev/trilhas/python/)
+[python.org](https://docs.python.org/pt-br/3/tutorial/)
 
 
 # Comandos importantes
