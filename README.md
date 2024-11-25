@@ -29,3 +29,8 @@ Nestas listas, faça os que achar interessante:
 [Lista 2](https://github.com/isquicha/exercicios-logica)
 
 [Lista 3](https://awari.com.br/10-exercicios-de-logica-de-programacao-para-aprimorar-suas-habilidades/)
+
+
+# Básico de Git
+
+[Vídeo](https://youtu.be/AaOv3E6jW0k)
