@@ -19,6 +19,7 @@ Colocarei aqui algumas coisas importantes para estudo pelo Enzo.
     - **Para subir um diretório (ver o diretório que tem o diretório onde você esta**: `cd ..`;
     - **Para executar um script Python**: python nome-do-arquivo.py. Exemplo: `python par-ou-impar.py`.
 
+
 # Listas de exercícios
 
 Nestas listas, faça os que achar interessante:
