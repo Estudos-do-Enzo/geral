@@ -13,7 +13,7 @@ Colocarei aqui algumas coisas importantes para estudo pelo Enzo.
 
 # Comandos importantes
 
-- **Para iniciar um terminal**: Tecla windows + R
+- **Para iniciar um terminal**: Tecla windows + R e digite 'cmd' (sem aspas).
 - **Estando no terminal**:
     - **Para mudar para um diretório filho**: cd nome-do-diretório. Ex: `cd Desktop`;
     - **Para subir um diretório (ver o diretório que tem o diretório onde você esta**: `cd ..`;
