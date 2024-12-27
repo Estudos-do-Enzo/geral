@@ -1,5 +1,3 @@
-import math
-
 print("Aqui a área de um quadrado e o dobro desta área.")
 
 while True:
