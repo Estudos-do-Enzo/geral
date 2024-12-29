@@ -52,3 +52,5 @@ E como ver as resoluções dos exercícios em Python? Com o interpretador Python
 ```
 python exercicio1.py
 ```
+
+E como rodar programas em Kotlin? Use o [Kotlin Playground](https://play.kotlinlang.org/)
