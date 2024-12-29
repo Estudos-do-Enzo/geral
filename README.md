@@ -47,4 +47,8 @@ Dentro de cada diretório há arquivos como exercicio1.py, exercicio2.py, exerci
 - exercicio1.kt é a resolução do exercício 1 em **Koltin** (a mesmo coisa, mas em outra linguagem de programação). Seria como falar "oi" em inglês e em português;
 - exercicio2.py é a resolução do exercício 2 em **Koltin**.
 
+E como ver as resoluções dos exercícios em Python? Com o interpretador Python que eu instalei no seu PC. Execute por exemplo para o arquivo exercicio1.py:
 
+```
+python exercicio1.py
+```
