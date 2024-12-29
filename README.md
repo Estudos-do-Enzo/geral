@@ -34,3 +34,8 @@ Nestas listas, faça os que achar interessante:
 # Básico de Git
 
 [Vídeo](https://youtu.be/AaOv3E6jW0k)
+
+
+# Minhas resoluções dos exercícios
+
+Estão no diretório papi. Lá tem diretórios referentes às listas. Ex: "lista1", "lista2" etc.
