@@ -39,3 +39,12 @@ Nestas listas, faça os que achar interessante:
 # Minhas resoluções dos exercícios
 
 Estão no diretório papi. Lá tem diretórios referentes às listas. Ex: "lista1", "lista2" etc.
+
+Dentro de cada diretório há arquivos como exercicio1.py, exercicio2.py, exercicio1.kt, exercicio2.kt etc. E o que isto quer dizer?
+
+- exercicio1.py é a resolução do exercício 1 em **Python**;
+- exercicio2.py é a resolução do exercício 2 em **Python**;
+- exercicio1.kt é a resolução do exercício 1 em **Koltin** (a mesmo coisa, mas em outra linguagem de programação). Seria como falar "oi" em inglês e em português;
+- exercicio2.py é a resolução do exercício 2 em **Koltin**.
+
+
