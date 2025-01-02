@@ -23,7 +23,7 @@ fun main() {
             print("Por favor digite o seu salário, usando o ponto como separador decimal: ")
             var input = readLine()
             salarioUsuario = input!!.toDouble()
-            if (salarioMinimo <= 0) {
+            if (salarioUsuario <= 0) {
                 throw NumberFormatException("Número inválido")
             }
             break
