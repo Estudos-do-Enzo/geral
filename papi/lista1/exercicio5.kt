@@ -14,7 +14,7 @@ fun main() {
             }
             break
         } catch (e: NumberFormatException) {
-            println("Por favor digite um valor maior ou igual a zero")
+            println("Por favor digite um valor maior que zero")
         }
     }
 
@@ -28,7 +28,7 @@ fun main() {
             }
             break
         } catch (e: NumberFormatException) {
-            println("Por favor digite um valor maior ou igual a zero")
+            println("Por favor digite um valor maior que zero")
         }
     }
 
