@@ -10,10 +10,10 @@ fun main() {
             var input = readLine()
             salarioMinimo = input!!.toDouble()
             if (salarioMinimo <= 0) {
-                throw Exception("Número inválido")
+                throw NumberFormatException("Número inválido")
             }
             break
-        } catch (e: Exception) {
+        } catch (e: NumberFormatException) {
             println("Por favor digite um valor maior ou igual a zero")
         }
     }
@@ -24,10 +24,10 @@ fun main() {
             var input = readLine()
             salarioUsuario = input!!.toDouble()
             if (salarioMinimo <= 0) {
-                throw Exception("Número inválido")
+                throw NumberFormatException("Número inválido")
             }
             break
-        } catch (e: Exception) {
+        } catch (e: NumberFormatException) {
             println("Por favor digite um valor maior ou igual a zero")
         }
     }
