@@ -13,5 +13,5 @@ fun main() {
         }
     }
     val area = Math.PI * Math.pow(raio, 2.0)
-    println("A área do círculo com um raio de $raio centímetros é $area")
+    println("A área do círculo com um raio de $raio centímetro(s) é $area centímetro(s) quadrado(s)")
 }   
