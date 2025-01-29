@@ -16,7 +16,7 @@ async function principal() {
         console.log("Por favor forneça um número maior que zero");
     }
 
-while (true) {
+    while (true) {
         numero2 = parseFloat(await softio.input( 'Por favor insira outro número: ' ));
 
         if (numero2 > 0) {
