@@ -6,15 +6,15 @@ fun main() {
     var numero:Int
     while (true) {
         try {
-            print("Informe um número inteiro maior que zero: ")
+            print("Informe um número inteiro maior que um: ")
             val entradaString = readLine()
             numero = entradaString!!.toInt()
-            if (numero > 0) {
+            if (numero > 1) {
                 break
             }
             throw Exception()
         } catch (e: Exception) {
-            println("Número inválido. Por favor, informe um número inteiro maior que zero.")
+            println("Número inválido. Por favor, informe um número inteiro maior que um.")
         }
     }
 
