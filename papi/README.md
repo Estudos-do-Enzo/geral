@@ -9,3 +9,9 @@ javac lista2/Exercicio1.java
 ```
 
 O caminho do arquivo acima é um exemplo.
+
+E o execute assim por exemplo, **estando neste diretório**:
+
+```bash
+java lista2.Exercicio1
+```
